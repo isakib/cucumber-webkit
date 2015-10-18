@@ -36,6 +36,11 @@ Configuration
 You can configure the capybara options in cucumber_helper.rb.
 Change `Capybara.app_host` to run the same test in different host.
 
+Others
+-------------
+To generate report by using cucumber
+```cucumber features --format html --out reports```
+
 References
 ----------
 * [Cucumber](https://github.com/cucumber/cucumber/wiki)
