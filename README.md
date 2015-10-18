@@ -40,3 +40,4 @@ References
 ----------
 * [Cucumber](https://github.com/cucumber/cucumber/wiki)
 * [Capybara](https://github.com/jnicklas/capybara)
+* [Capybara-Webkit] (https://github.com/thoughtbot/capybara-webkit)
