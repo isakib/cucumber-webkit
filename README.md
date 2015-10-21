@@ -1,6 +1,7 @@
 Setup
 -----
-Install ruby.
+Install ruby. 
+
 And then install gems by the following command.
 ```bash
 bundle install
@@ -41,8 +42,36 @@ Others
 To generate report by using cucumber
 ```cucumber features --format html --out reports```
 
+OS Setup approach
+-----------------
+
+<b> MAC OS X </b>
+Run to setup ```brew install qt``` and then ```gem install capybara-webkit -v '0.7.2'``` or the version you need replace with the given version. 
+
+<b> For Other OS </b>
+Solution for Linux.
+
+Ubuntu
+
+```sudo apt-get install libqt4-dev libqtwebkit-dev```
+
+Debian Stable
+
+```sudo apt-get install libqt4-dev```
+
+Fedora
+
+```yum install qt-webkit-devel```
+
+Fedora 16
+
+```yum install qtwebkit-devel```
+
+
 References
 ----------
 * [Cucumber](https://github.com/cucumber/cucumber/wiki)
 * [Capybara](https://github.com/jnicklas/capybara)
 * [Capybara-Webkit] (https://github.com/thoughtbot/capybara-webkit)
+* [Ruby Installation](http://gorails.com/setup/osx/10.10-yosemite)
+* [Capybara-Webkit Tips](http://stackoverflow.com/questions/8365764/error-installing-gem-capybara-webkit)
