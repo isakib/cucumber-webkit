@@ -75,3 +75,4 @@ References
 * [Capybara-Webkit] (https://github.com/thoughtbot/capybara-webkit)
 * [Ruby Installation](http://gorails.com/setup/osx/10.10-yosemite)
 * [Capybara-Webkit Tips](http://stackoverflow.com/questions/8365764/error-installing-gem-capybara-webkit)
+* [Thoughtbot - Offical Support](https://github.com/thoughtbot/capybara-webkit/wiki/Installing-Qt-and-compiling-capybara-webkit)
