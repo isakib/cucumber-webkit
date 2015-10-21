@@ -46,7 +46,7 @@ OS Setup approach
 -----------------
 
 <b> MAC OS X </b>
-Run to setup ```brew install qt``` and then ```gem install capybara-webkit -v '0.7.2'``` or the version you need replace with the given version. 
+Run to setup ```brew install qt``` and then ```sudo gem install capybara-webkit -v '0.7.2'``` or the version you need replace with the given version. 
 
 <b> For Other OS </b>
 Solution for Linux.
