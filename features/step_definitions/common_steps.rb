@@ -55,3 +55,7 @@ end
 Given /^I want to click popup "([^"]*)"$/ do |option|
   retval = (option == "Ok") ? "true" : "false"
 end
+
+Given /^I want to mazimize the windows$/ do
+  page.driver.browser.manage.window.maximize
+end
