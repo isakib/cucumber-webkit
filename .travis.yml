@@ -3,6 +3,7 @@ cache: bundler
 
 
 before_script: 'bundle install'
+before_script: 'brew install qt'
 script: 'cucumber'
 
 branches:
