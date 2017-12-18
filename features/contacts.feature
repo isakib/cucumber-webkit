@@ -1,7 +1,6 @@
 Feature: Inactive email
 
   Background: Pre-reqisties
-#    Given I want to maximize the windows of browser
     Given I am logged in with "username" and "password"
 
   @javascript

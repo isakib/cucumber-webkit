@@ -1,7 +1,7 @@
 require 'capybara'
 require 'capybara/cucumber'
 require 'capybara/poltergeist'
-require 'selenium-webdriver'
+# require 'selenium-webdriver'
 
 
 #pass environment variables to control which browser is used for testing. Default is HEADLESS/POLTERGEIST
